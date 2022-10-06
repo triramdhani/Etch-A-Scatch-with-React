@@ -6,3 +6,7 @@ progres :
 
 1. tinggal menambah component ganti warna pensil
 2. pengatur banyak box
+3. add responsive
+4. deploy
+
+demo link : https://triramdhani.github.io/Etch-a-scatch-with-react/
