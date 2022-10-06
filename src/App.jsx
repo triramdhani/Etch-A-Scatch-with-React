@@ -1,7 +1,14 @@
 import React from 'react'
+import { ReactDOM } from 'react'
+import './app.css'
+import Header from './components/Header'
+import Main from './components/Main'
 
 export default function App() {
   return (
-    <div>App</div>
+    <>
+      <Header />
+      <Main />
+    </>
   )
 }
